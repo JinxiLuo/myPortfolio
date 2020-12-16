@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>food | Jinxi Luo</title>
-    <link>https://jinxil.github.io/myPortfolio/tag/food/</link>
-      <atom:link href="https://jinxil.github.io/myPortfolio/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinxiluo.github.io/myPortfolio/tag/food/</link>
+      <atom:link href="https://jinxiluo.github.io/myPortfolio/tag/food/index.xml" rel="self" type="application/rss+xml" />
     <description>food</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jinxil.github.io/myPortfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinxiluo.github.io/myPortfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>food</title>
-      <link>https://jinxil.github.io/myPortfolio/tag/food/</link>
+      <link>https://jinxiluo.github.io/myPortfolio/tag/food/</link>
     </image>
     
     <item>
       <title>Something to do with trading...</title>
-      <link>https://jinxil.github.io/myPortfolio/publication/conference-paper/</link>
+      <link>https://jinxiluo.github.io/myPortfolio/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jinxil.github.io/myPortfolio/publication/conference-paper/</guid>
+      <guid>https://jinxiluo.github.io/myPortfolio/publication/conference-paper/</guid>
       <description></description>
     </item>
     

@@ -3,202 +3,272 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/courses/example/example1/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/courses/example/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/courses/example/example2/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/talk/example/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/talk/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/tag/demo/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/authors/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/project/exploring-jobs-with-data-analysis/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/post/getting-started/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/project/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/tags/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/categories/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/author/jinxi-luo/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/nlp/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/courses/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/nlp/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/post/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/python/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/python/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/quantopian/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/quantopian/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/r/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/r/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/tableau/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/tableau/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tags/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/visualization/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/visualization/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/web-scrapping/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/category/web-scrapping/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication-type/3/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication/preprint/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/author/jinxi-luo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication_types/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/tag/source-themes/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/slides/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/slides/example/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/privacy/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/terms/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication-type/2/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication/journal-article/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/author/robert-ford/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication-type/0/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication-type/0/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/tag/food/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/food/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/author/jinxi-luo/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/author/jinxi-luo/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/publication/conference-paper/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/project/trading/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/powerbi/</loc>
     <lastmod>2005-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jinxil.github.io/myPortfolio/project/finding-the-best-american-hotel/</loc>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/data-analysis/</loc>
+    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/powerbi/</loc>
+    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/</loc>
+    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/algorithmic-trading-in-quantopian/</loc>
+    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/machine-learning/</loc>
+    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/predictive-modeling/</loc>
+    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/predicting-recidivate-offenders/</loc>
+    <lastmod>2002-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/sas/</loc>
+    <lastmod>2002-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</loc>
     <lastmod>2000-04-27T00:00:00+00:00</lastmod>
   </url>
   
