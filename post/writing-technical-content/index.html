@@ -273,13 +273,13 @@
   <meta property="og:site_name" content="Jinxi Luo">
   <meta property="og:url" content="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/">
   <meta property="og:title" content="Best Hotels in The USA | Jinxi Luo">
-  <meta property="og:description" content="A look at how  data from a range of sources can be used to take finding a hotel to stay at to another perspective beyond common site filters."><meta property="og:image" content="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.jpg">
-  <meta property="twitter:image" content="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="A look at how  data from a range of sources can be used to take finding a hotel to stay at to another perspective beyond common site filters."><meta property="og:image" content="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.png">
+  <meta property="twitter:image" content="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-10-20T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-11-20T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-10-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-11-20T00:00:00&#43;00:00">
   
 
   
@@ -308,11 +308,11 @@
   "headline": "Best Hotels in The USA",
   
   "image": [
-    "https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.jpg"
+    "https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.png"
   ],
   
-  "datePublished": "2020-10-20T00:00:00Z",
-  "dateModified": "2020-10-20T00:00:00Z",
+  "datePublished": "2020-11-20T00:00:00Z",
+  "dateModified": "2020-11-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -685,7 +685,7 @@
     
       
     
-    Oct 20, 2020
+    Nov 20, 2020
   </span>
   
 
@@ -694,7 +694,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    3 min read
   </span>
   
 
@@ -729,9 +729,9 @@
 </div>
 
 
-<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 648px; max-height: 354px;">
+<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 1202px; max-height: 726px;">
   <div style="position: relative">
-    <img src="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.jpg" alt="" class="featured-image">
+    <img src="https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/featured.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -741,10 +741,41 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.</p>
-<p><strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.</strong></p>
-<p>On this page, you&rsquo;ll find some examples of the types of technical content that can be rendered with Academic.</p>
-<h2 id="examples">Examples</h2>
+      <p>Above shows the main results of the project, displaying the top 10 hotels that are best reviewed, safest, have the best weather and with the most cities to visit. The original project can be found linked in the <strong>Related</strong> section below in a Github Repository. This page will provide a summary of what was done as described in seven steps.</p>
+<p>This project builds on my strength to extract and make use of data from multiple sources. And gave me experience working with folium maps, ggplot2, sentiment classifiers and producing effective visualizations for a context.</p>
+<h3 id="step-1---a-look-at-all-the-hotels">Step 1 - A look at all the hotels</h3>
+<p><img src="i1.png" alt=""></p>
+<p>We draw our focus to this particular region of the USA which shows about a total of 1433 hotels. This is a lot, so let’s see if reviews can narrow the search.</p>
+<h3 id="step-2---finding-high-rated-and-reviewed-hotels">Step 2 - Finding high rated and reviewed hotels</h3>
+<p><img src="i2.png" alt=""></p>
+<p><img src="i3.png" alt=""></p>
+<p>The majority of hotels have high ratings of 4 to 5 but only a small number of reviews.</p>
+<p>Let’s remove those with ratings below 4 and less than 2 reviews. We can quickly see the map is less cluttered with 485 remaining hotels.</p>
+<p><img src="i4.png" alt=""></p>
+<h3 id="step-3---a-look-at-the-sentiment">Step 3 - A look at the sentiment</h3>
+<p><img src="i5.png" alt=""></p>
+<p>Most hotels seem to have over 70% positive reviews, so let’s remove those with less.</p>
+<p><img src="i66.png" alt=""></p>
+<p>Word cloud of reviews doesn&rsquo;t show that might be anything important to note.</p>
+<h3 id="step-4---finding-hotels-in-safe-states">Step 4 - Finding hotels in safe states</h3>
+<p><img src="i77.png" alt=""></p>
+<p>I will pick states that have a crime rate below 200 resulting in 82 remaining hotels. As the 2019 national average for violent crime rate is 370 per 100,000 people, which would mostly be the only type of crime we are worried about considering we are renting</p>
+<p>Good to see that there are also plenty of hotels in those states.</p>
+<h3 id="step-5---when-is-it-good-to-visit">Step 5 - When is it good to visit?</h3>
+<p><img src="i8.png" alt=""></p>
+<p>For the temperatures that I like between 60 to 65 Fahrenheit, there 11 states that are desirable around April to September.</p>
+<p>Which are around the spring and fall seasons, so best prepare an umbrella and hay fever medicine.</p>
+<h3 id="step-6---finding-cities-to-visit-near-by">Step 6 - Finding cities to visit near by</h3>
+<p><img src="i9.png" alt="">
+Here we recap to see the states in which the 52 remaining hotels are located.</p>
+<p><img src="i10.png" alt="">
+To exactly find out which hotels have the most cities to visit, the distance between each city and hotel is calculated using the haversine formula, which finds distance between points on globe.</p>
+<p><img src="i11.png" alt=""></p>
+<p>A look at the populations in each city also shows what we might be getting our self into. If we are not a fan of crowded places.</p>
+<h3 id="step-7---end-result">Step 7 - End result</h3>
+<p>Here we conclude with a list of the top 10 hotels ordered by number of nearest cities. As well as an illustration of the different data sources used and their goal.
+<img src="i12.png" alt=""></p>
+<p><img src="i13.png" alt=""></p>
 
     </div>
 

@@ -5,7 +5,7 @@
     <link>https://jinxiluo.github.io/myPortfolio/post/</link>
       <atom:link href="https://jinxiluo.github.io/myPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jinxiluo.github.io/myPortfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,23 +13,45 @@
     </image>
     
     <item>
-      <title>Beating the S&amp;P 500 Index with Machine Learning in Quantopian</title>
-      <link>https://jinxiluo.github.io/myPortfolio/post/getting-started/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jinxiluo.github.io/myPortfolio/post/getting-started/</guid>
-      <description>&lt;p&gt;ee&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Best Hotels in The USA</title>
       <link>https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+      <description>&lt;p&gt;Above shows the main results of the project, displaying the top 10 hotels that are best reviewed, safest, have the best weather and with the most cities to visit. The original project can be found linked in the &lt;strong&gt;Related&lt;/strong&gt; section below in a Github Repository. This page will provide a summary of what was done as described in seven steps.&lt;/p&gt;
+&lt;p&gt;This project builds on my strength to extract and make use of data from multiple sources. And gave me experience working with folium maps, ggplot2, sentiment classifiers and producing effective visualizations for a context.&lt;/p&gt;
+&lt;h3 id=&#34;step-1---a-look-at-all-the-hotels&#34;&gt;Step 1 - A look at all the hotels&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We draw our focus to this particular region of the USA which shows about a total of 1433 hotels. This is a lot, so let’s see if reviews can narrow the search.&lt;/p&gt;
+&lt;h3 id=&#34;step-2---finding-high-rated-and-reviewed-hotels&#34;&gt;Step 2 - Finding high rated and reviewed hotels&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The majority of hotels have high ratings of 4 to 5 but only a small number of reviews.&lt;/p&gt;
+&lt;p&gt;Let’s remove those with ratings below 4 and less than 2 reviews. We can quickly see the map is less cluttered with 485 remaining hotels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-3---a-look-at-the-sentiment&#34;&gt;Step 3 - A look at the sentiment&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Most hotels seem to have over 70% positive reviews, so let’s remove those with less.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i66.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Word cloud of reviews doesn&amp;rsquo;t show that might be anything important to note.&lt;/p&gt;
+&lt;h3 id=&#34;step-4---finding-hotels-in-safe-states&#34;&gt;Step 4 - Finding hotels in safe states&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i77.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I will pick states that have a crime rate below 200 resulting in 82 remaining hotels. As the 2019 national average for violent crime rate is 370 per 100,000 people, which would mostly be the only type of crime we are worried about considering we are renting&lt;/p&gt;
+&lt;p&gt;Good to see that there are also plenty of hotels in those states.&lt;/p&gt;
+&lt;h3 id=&#34;step-5---when-is-it-good-to-visit&#34;&gt;Step 5 - When is it good to visit?&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For the temperatures that I like between 60 to 65 Fahrenheit, there 11 states that are desirable around April to September.&lt;/p&gt;
+&lt;p&gt;Which are around the spring and fall seasons, so best prepare an umbrella and hay fever medicine.&lt;/p&gt;
+&lt;h3 id=&#34;step-6---finding-cities-to-visit-near-by&#34;&gt;Step 6 - Finding cities to visit near by&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;i9.png&#34; alt=&#34;&#34;&gt;
+Here we recap to see the states in which the 52 remaining hotels are located.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i10.png&#34; alt=&#34;&#34;&gt;
+To exactly find out which hotels have the most cities to visit, the distance between each city and hotel is calculated using the haversine formula, which finds distance between points on globe.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i11.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A look at the populations in each city also shows what we might be getting our self into. If we are not a fan of crowded places.&lt;/p&gt;
+&lt;h3 id=&#34;step-7---end-result&#34;&gt;Step 7 - End result&lt;/h3&gt;
+&lt;p&gt;Here we conclude with a list of the top 10 hotels ordered by number of nearest cities. As well as an illustration of the different data sources used and their goal.
+&lt;img src=&#34;i12.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;i13.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

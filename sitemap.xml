@@ -34,107 +34,82 @@
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/authors/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/post/getting-started/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/post/writing-technical-content/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/categories/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/author/jinxi-luo/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/nlp/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/category/nlp/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/post/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/python/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/category/python/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/quantopian/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/category/quantopian/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/r/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/category/r/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/tableau/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/category/tableau/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tags/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/visualization/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/category/visualization/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/web-scrapping/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/category/web-scrapping/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -254,6 +229,11 @@
   
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/tag/predictive-modeling/</loc>
+    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/quantopian/</loc>
     <lastmod>2005-03-27T00:00:00+00:00</lastmod>
   </url>
   
