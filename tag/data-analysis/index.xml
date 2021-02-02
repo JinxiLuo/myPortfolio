@@ -5,7 +5,7 @@
     <link>https://jinxiluo.github.io/myPortfolio/tag/data-analysis/</link>
       <atom:link href="https://jinxiluo.github.io/myPortfolio/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Wed, 27 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jinxiluo.github.io/myPortfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Data Analysis</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Dashboard in PowerBI</title>
-      <link>https://jinxiluo.github.io/myPortfolio/project/powerbi/</link>
-      <pubDate>Wed, 27 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>https://jinxiluo.github.io/myPortfolio/project/powerbi/</guid>
+      <title>Finding The Best American Hotels</title>
+      <link>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Finding The Best American Hotels</title>
-      <link>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</link>
-      <pubDate>Thu, 27 Apr 2000 00:00:00 +0000</pubDate>
-      <guid>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</guid>
+      <title>Dashboard in PowerBI</title>
+      <link>https://jinxiluo.github.io/myPortfolio/project/powerbi/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://jinxiluo.github.io/myPortfolio/project/powerbi/</guid>
       <description></description>
     </item>
     

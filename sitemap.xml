@@ -113,6 +113,21 @@
   </url>
   
   <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/data-analysis/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jinxiluo.github.io/myPortfolio/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -143,6 +158,21 @@
   </url>
   
   <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/predicting-recidivate-offenders/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/predictive-modeling/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/sas/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jinxiluo.github.io/myPortfolio/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -160,6 +190,46 @@
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/ai/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/research/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/retail/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/techniques-of-artificial-intelligence-in-retail/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/powerbi/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/powerbi/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/project/algorithmic-trading-in-quantopian/</loc>
+    <lastmod>2016-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinxiluo.github.io/myPortfolio/tag/finance/</loc>
+    <lastmod>2016-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -195,61 +265,6 @@
   <url>
     <loc>https://jinxiluo.github.io/myPortfolio/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/project/powerbi/</loc>
-    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/data-analysis/</loc>
-    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/powerbi/</loc>
-    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/project/</loc>
-    <lastmod>2005-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/project/algorithmic-trading-in-quantopian/</loc>
-    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/machine-learning/</loc>
-    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/predictive-modeling/</loc>
-    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/quantopian/</loc>
-    <lastmod>2005-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/project/predicting-recidivate-offenders/</loc>
-    <lastmod>2002-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/tag/sas/</loc>
-    <lastmod>2002-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jinxiluo.github.io/myPortfolio/project/finding-the-best-american-hotel/</loc>
-    <lastmod>2000-04-27T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retail | Jinxi Luo</title>
+    <link>https://jinxiluo.github.io/myPortfolio/tag/retail/</link>
+      <atom:link href="https://jinxiluo.github.io/myPortfolio/tag/retail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jinxi Luo 2020</copyright><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jinxiluo.github.io/myPortfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Retail</title>
+      <link>https://jinxiluo.github.io/myPortfolio/tag/retail/</link>
+    </image>
+    
+    <item>
+      <title>Techniques of Artificial Intelligence in Retail</title>
+      <link>https://jinxiluo.github.io/myPortfolio/project/techniques-of-artificial-intelligence-in-retail/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jinxiluo.github.io/myPortfolio/project/techniques-of-artificial-intelligence-in-retail/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
